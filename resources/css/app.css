@@ -1,0 +1,14 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.background-image {
+   background-image:url('https://img.freepik.com/free-psd/responsive-dark-v1_187299-7661.jpg?t=st=1648173713~exp=1648174313~hmac=fba5992beab4edc060ae66cea47adbb8a10b2003de24a3904516292e02b59059&w=900') ; 
+background-position: center center;
+background-position: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+height: 600px;
+}
